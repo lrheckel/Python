@@ -1,2 +1,2 @@
 # Python
-Place to hold Python code that I am learning with
+Place to hold Python code for learning or reference.
